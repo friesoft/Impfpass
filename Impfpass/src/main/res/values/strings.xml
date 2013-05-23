@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Impfpass
+    </string>
+    <string name="action_settings">Settings
+    </string>
+    <string name="title_Homepage">Home
+    </string>
+    <string name="title_Insert">Insert
+    </string>
+    <string name="title_History">History
+    </string>
+
+</resources>
